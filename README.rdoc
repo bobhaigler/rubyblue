@@ -6,6 +6,10 @@ language (http://ruby-lang.org).
 
 If you create a theme for your editor of choice please fork this project and
 add it.
+== Sublime Text
+
+Place the following in your user settings:
+"color_scheme": "Packages/User/RubyBlue.tmBundle/Themes/RubyBlue.tmTheme"
 
 == TextMate 1
 
